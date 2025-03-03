@@ -1,0 +1,5 @@
+.venv
+data
+.idea
+
+all_categories_dict.json
